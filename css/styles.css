@@ -1,0 +1,218 @@
+body {
+  background-color: #351f39;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.titleText {
+  color: white;
+  padding-top: 38%;
+  position: relative;
+  text-align: center;
+}
+
+.upper-container {
+  height: 250px;
+  left: 50%;
+  margin-left: -700px;
+  position: absolute;
+  top: 100px;
+  width: 1400px;
+}
+
+.firstSq {
+  background-color: #9f1e49;
+  border-radius: 20%;
+  height: 250px;
+  left: 275px;
+  position: relative;
+  width: 250px;
+}
+
+.secondSq {
+  background-color: #f0c24d;
+  border-radius: 20%;
+  bottom: 250px;
+  height: 250px;
+  left: 575px;
+  position: relative;
+  width: 250px;
+}
+
+.thirdSq {
+  background-color: #065471;
+  border-radius: 20%;
+  bottom: 500px;
+  height: 250px;
+  left: 875px;
+  position: relative;
+  width: 250px;
+}
+
+.N {
+  color: #f2f2f2;
+  font-family: 'Monoton', cursive;
+  font-size: 200px;
+  line-height: 250px;
+  margin: 0;
+  padding-top: 8px;
+  text-align: center;
+}
+
+.K {
+  color: #f2f2f2;
+  font-family: 'Monoton', cursive;
+  font-size: 200px;
+  line-height: 250px;
+  margin: 0;
+  padding-top: 8px;
+  text-align: center;
+}
+
+.S {
+  color: #f2f2f2;
+  font-family: 'Monoton', cursive;
+  font-size: 200px;
+  line-height: 250px;
+  margin: 0;
+  padding-top: 8px;
+  text-align: center;
+}
+
+.skills {
+  height: auto;
+  width: 600px;
+  margin: auto;
+  text-align: left;
+}
+
+.contact-me{
+  height: auto;
+  width: 600px;
+  margin: auto;
+  text-align: left;
+}
+
+.contact-me p{
+  width: 400px;
+  text-align: left;
+}
+
+.contact-me h2{
+  width: 400px;
+  text-align: left;
+}
+
+.contact-me h3{
+  width: 400px;
+  text-align: left;
+}
+
+.web {
+  color: #78d18d;
+}
+
+.content {
+  color: white;
+  height: 250px;
+  left: 50%;
+  margin-left: -700px;
+  position: relative;
+  top: 400px;
+  width: 1400px;
+}
+
+.mainText {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.middle-container {
+  color: #f2f2f2;
+  left: 50%;
+  margin-left: -700px;
+  position: relative;
+  top: 400px;
+  width: 1400px;
+}
+
+.profile {
+  margin: auto;
+  width: 600px;
+}
+
+.profile h2 {
+  font-size: 1.875rem;
+  text-align: left;
+  width: 380px;
+  /* 16px = 1em */
+}
+
+.profile p {
+  line-height: 19px;
+  text-align: left;
+  width: 380px;
+}
+
+.avatar {
+  float: right;
+  height: auto;
+  width: 35%;
+}
+
+.startHr{
+  background: #f0c24d;
+  border: 0;
+  height: 1px;
+  margin-top: 10px;
+  width: 600px;
+}
+
+.middleEnd {
+  background: #f0c24d;
+  border: 0;
+  height: 1px;
+  margin-top: 25px;
+  width: 600px;
+}
+
+.skillsEnd {
+  background: #f0c24d;
+  border: 0;
+  height: 1px;
+  margin-top: 20px;
+  width: 600px;
+}
+
+.btn img{
+  border: 1px solid #f0c24d;
+  border-radius: 20%;
+  padding: 10px;
+  margin-right: 60px;
+  margin-top: 8px;
+  float: right;
+  width: 15%;
+  height: auto;
+}
+
+.bottom-container {
+  position: relative;
+  top: 400px;
+  color: white;
+}
+
+.bottom-container a{
+  color: #f0c24d;
+}
+
+.bottom-container p{
+  margin-top: 50px;
+}

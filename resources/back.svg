@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1500" viewBox="0 0 1500 1500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1f233c;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: red;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill: #262b4a;
+      }
+
+      .cls-3 {
+        fill: #2c3156;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="-65" y="629" width="326" height="326"/>
+  <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-2" x="261" y="629" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-3" x="587" y="629" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-2" x="913" y="629" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_4" data-name="Rectangle 1 copy 4" class="cls-1" x="1239" y="629" width="326" height="326"/>
+  <rect class="cls-1" x="-111" y="303" width="326" height="326"/>
+  <rect id="Rectangle_1_copy-2" data-name="Rectangle 1 copy" class="cls-2" x="215" y="303" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_2-2" data-name="Rectangle 1 copy 2" class="cls-3" x="541" y="303" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_3-2" data-name="Rectangle 1 copy 3" class="cls-2" x="867" y="303" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_4-2" data-name="Rectangle 1 copy 4" class="cls-1" x="1193" y="303" width="326" height="326"/>
+  <rect class="cls-1" x="-65" y="-23" width="326" height="326"/>
+  <rect id="Rectangle_1_copy-3" data-name="Rectangle 1 copy" class="cls-2" x="261" y="-23" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_2-3" data-name="Rectangle 1 copy 2" class="cls-3" x="587" y="-23" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_3-3" data-name="Rectangle 1 copy 3" class="cls-2" x="913" y="-23" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_4-3" data-name="Rectangle 1 copy 4" class="cls-1" x="1239" y="-23" width="326" height="326"/>
+  <rect class="cls-1" x="-111" y="955" width="326" height="326"/>
+  <rect id="Rectangle_1_copy-4" data-name="Rectangle 1 copy" class="cls-2" x="215" y="955" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_2-4" data-name="Rectangle 1 copy 2" class="cls-3" x="541" y="955" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_3-4" data-name="Rectangle 1 copy 3" class="cls-2" x="867" y="955" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_4-4" data-name="Rectangle 1 copy 4" class="cls-1" x="1193" y="955" width="326" height="326"/>
+  <rect class="cls-1" x="-65" y="1281" width="326" height="326"/>
+  <rect id="Rectangle_1_copy-5" data-name="Rectangle 1 copy" class="cls-2" x="261" y="1281" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_2-5" data-name="Rectangle 1 copy 2" class="cls-3" x="587" y="1281" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_3-5" data-name="Rectangle 1 copy 3" class="cls-2" x="913" y="1281" width="326" height="326"/>
+  <rect id="Rectangle_1_copy_4-5" data-name="Rectangle 1 copy 4" class="cls-1" x="1239" y="1281" width="326" height="326"/>
+</svg>
